@@ -1,4 +1,4 @@
----
+https://github.com/github/docs/blob/db50b93d57c177f28db0d848af58b4668c085de5/content/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews.md---
 title: Approving a pull request with required reviews
 intro: 'If your repository requires reviews, pull requests must have a specific number of approving reviews from people with _write_ or _admin_ permissions in the repository before they can be merged.'
 redirect_from:
